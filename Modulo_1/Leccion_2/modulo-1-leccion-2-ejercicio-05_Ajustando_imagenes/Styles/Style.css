@@ -1,0 +1,12 @@
+.imagen {
+    height: 100px;
+    width: 100px;
+}
+.contenedor {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 5px;
+    box-sizing: border-box;
+    margin-inline: auto;
+}
